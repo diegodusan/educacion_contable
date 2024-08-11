@@ -1,11 +1,11 @@
 {
-    "name": "educacion_contabilidad",
-    "short_name": "educacion_contabilidad",
+    "name": "educacion_contable",
+    "short_name": "educacion_contable",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Este sera un proyecto educativo con el fin de llevar una parta mas practica en el aprendizaje de la contabilidad a estudiantes de bachillerato.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
