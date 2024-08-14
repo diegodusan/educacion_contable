@@ -1,0 +1,139 @@
+{
+  "terminos": [
+    {
+      "palabra": "Activo",
+      "concepto": "Recursos que posee una empresa y que se espera generen beneficios futuros.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Pasivo",
+      "concepto": "Obligaciones financieras que tiene una empresa y que deben pagarse en el futuro.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Patrimonio",
+      "concepto": "Es igual a los activos menos los pasivos de la empresa, representa la participación de los propietarios en la empresa.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Ingresos",
+      "concepto": "Cantidades recibidas por la venta de bienes o servicios, así como otros ingresos como intereses y dividendos.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Gastos",
+      "concepto": "Salida de recursos de la empresa que disminuye el patrimonio, en razón a que no se genera ningún beneficio económico como respuesta o consecuencia del gasto.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Costos",
+      "concepto": "Son los pagos en que incurre la empresa para desarrollar el objeto social de la misma. Podemos mencionar las materias primas, la mano de obra de la planta, los servicios públicos de la planta de producción.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Nota Débito",
+      "concepto": "Es un comprobante que una empresa envía a su cliente, en la que se le notifica haber cargado o debitado en su cuenta una determinada suma o valor, por el concepto que se indica en la misma nota. Registra el valor de la deuda o saldo de la cuenta, ya sea por un error en la facturación, interés por mora en el pago, o cualquier otra circunstancia que signifique el incremento del saldo de una cuenta.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Nota Crédito",
+      "concepto": "Es el documento o comprobante que una empresa envía a su cliente, con el objeto de informar la acreditación en su cuenta un valor determinado, por el concepto que se indica en la misma nota. Algunos casos en que se emplea la nota crédito pueden ser por: avería de productos vendidos, rebajas o disminución de precios, devoluciones o descuentos especiales, o corregir errores por exceso en la facturación; es decir disminuye la deuda o el saldo de la respectiva cuenta.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Factura",
+      "concepto": "Es un documento legal que detalla los productos o servicios adquiridos por el comprador, el valor que se paga por ellos, el medio o modo de pago, y el plazo para el pago, que puede ser de contado o financiado.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Comprobante de Egreso",
+      "concepto": "Son documentos que respaldan salidas de dinero de tu empresa. Cada vez que registres un Gasto asociado a categorías o facturas de compra automáticamente quedará registrado un comprobante de egreso para dicho pago.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Cuentas Por Cobrar",
+      "concepto": "Cuando se presta un servicio o se vende un producto, el vendedor o prestador del servicio debe emitir una factura, pero si esa persona no está obligada a expedir factura, emite una cuenta de cobro.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Cuentas Por Pagar",
+      "concepto": "Se definen como las deudas u obligaciones que tiene la empresa a sus proveedores o a sus acreedores, según sea el caso porque contrataste un servicio o producto. Por lo general el pago de estas obligaciones no es inmediato, sino que tienen un plazo acordado. Es decir que son como una especie de crédito que te da tu proveedor sin que tenga que intervenir un banco.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Inventario",
+      "concepto": "Son activos que se adquieren con la finalidad de ser vendidos en el ciclo normal de las operaciones del negocio.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Provisión",
+      "concepto": "Tiene por objetivo prever unos recursos para cuando hagan falta, para cuando se necesiten para cumplir una obligación o compromiso futuro. Es por eso que en el pasivo se crean las provisiones para las diferentes obligaciones futuras de la empresa, como son obligaciones laborales, fiscales o demandas judiciales.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Clientes",
+      "concepto": "Es una persona natural o jurídica que recibe un servicio o adquiere un bien a cambio de un beneficio económico.",
+      "tema": "Comercio"
+    },
+    {
+      "palabra": "Proveedores",
+      "concepto": "Un proveedor es a aquella persona natural o jurídica que suministra un determinado bien o servicio a otros individuos o sociedades, como forma de actividad económica y a cambio de una contra prestación.",
+      "tema": "Comercio"
+    },
+    {
+      "palabra": "Estado de Situación Financiera",
+      "concepto": "Es un documento contable financiero que refleja la situación económica de la empresa; que incluye información sobre los activos que tiene la organización (bienes, derechos y recursos con los que cuenta), sus pasivos (los recursos que adeuda), y el patrimonio existente en un momento específico.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Balance de Prueba",
+      "concepto": "Conocido también como Balance de Comprobación, es un informe de saldos débitos y créditos tanto de cuentas reales o de balance como de cuentas de resultado o de pérdidas y ganancias, que se muestran para determinar que existe el equilibrio contable en la aplicación de la partida doble para los diferentes registros de los hechos económicos.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Estado de Resultados",
+      "concepto": "Es también conocido como el estado de ganancias y pérdidas, este se caracteriza por ser un reporte de carácter financiero que toma como base un periodo determinado para mostrar de manera detallada cuáles fueron los ingresos que obtuvo una empresa, sus gastos y el momento en el que se producen, y como consecuencia, si existe un beneficio o una pérdida para la empresa.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Estado de Flujo de Efectivo",
+      "concepto": "Muestra las entradas y salidas de efectivo y sus equivalentes de una entidad, durante un período determinado, clasificándolas en actividades de operación, inversión y financiación.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Depreciación",
+      "concepto": "Se refiere a la pérdida de valor que un bien experimenta a lo largo de su vida útil. Este cálculo o evaluación se les realiza a los activos de tu empresa; a todo lo material como sillas, computadoras, memorias, impresoras, entre otros.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Obligaciones",
+      "concepto": "Compromiso con que se reconocen deudas o se compromete su pago u otra prestación o entrega; las obligaciones están constituidas por el pasivo de una empresa.",
+      "tema": "Contabilidad"
+    },
+    {
+      "palabra": "Impuestos",
+      "concepto": "Pagos obligatorios de dinero que exige el Estado a los individuos y empresas que no están sujetos a una contraprestación directa, con el fin de financiar los gastos propios de la administración del Estado y la provisión de bienes y servicios de carácter público.",
+      "tema": "Finanzas"
+    },
+    {
+      "palabra": "Rentabilidad",
+      "concepto": "Se refiere a la capacidad de una inversión determinada de arrojar beneficios superiores a los invertidos después de la espera de un período de tiempo. Se trata de un elemento fundamental en la planificación económica y financiera, ya que supone haber hecho buenas elecciones.",
+      "tema": "Finanzas"
+    },
+    {
+      "palabra": "Capital",
+      "concepto": "Es el total de recursos físicos y financieros que posee una entidad económica, obtenidos mediante aportaciones de los socios o accionistas, para generar beneficios o ganancias.",
+      "tema": "Finanzas"
+    },
+    {
+      "palabra": "Punto de equilibrio",
+      "concepto": "Es un término que sirve para definir el momento en que una empresa cubre sus costes fijos y variables; es decir cuando los ingresos y los egresos están al mismo nivel y, por lo tanto, no hay ganancias ni pérdidas.",
+      "tema": "Finanzas"
+    },
+    {
+      "palabra": "Riesgo",
+      "concepto": "Se refiere así a la inseguridad y la incertidumbre que provocan los cambios producidos en el sector en el que opera, a la volatilidad de los mercados financieros o la imposibilidad de devolución del capital por una de las partes, entre otros muchos factores.",
+      "tema": "Finanzas"
+    }
+  ]
+}
