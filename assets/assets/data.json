@@ -502,7 +502,10 @@
             }
          },
          "1328":{
-            "descripcion":"APORTES POR COBRAR"
+            "descripcion":"APORTES POR COBRAR",
+            "132805":{
+               "descripcion":"APORTES POR COBRAR"
+            }
          },
          "1330":{
             "descripcion":"ANTICIPOS Y AVANCES",
@@ -782,20 +785,20 @@
          "descripcion":"INVENTARIOS",
          "1405":{
             "descripcion":"MATERIAS PRIMAS",
-            "140599":{
-               "descripcion":"AJUSTES POR INFLACION"
+            "140505":{
+               "descripcion":"MATERIAS PRIMAS"
             }
          },
          "1410":{
             "descripcion":"PRODUCTOS EN PROCESO",
-            "141099":{
-               "descripcion":"AJUSTES POR INFLACION"
+            "141005":{
+               "descripcion":"PRODUCTOS EN PROCESO"
             }
          },
          "1415":{
             "descripcion":"OBRAS DE CONSTRUCCION EN CURSO",
-            "141599":{
-               "descripcion":"AJUSTES POR INFLACION"
+            "141505":{
+               "descripcion":"OBRAS DE CONSTRUCCION EN CURSO"
             }
          },
          "1417":{
@@ -839,8 +842,8 @@
          },
          "1435":{
             "descripcion":"MERCANCIAS NO FABRICADAS POR LA EMPRESA",
-            "143599":{
-               "descripcion":"AJUSTES POR INFLACION"
+            "143505":{
+               "descripcion":"MERCANCIAS NO FABRICADAS POR LA EMPRESA"
             }
          },
          "1440":{
@@ -1097,8 +1100,8 @@
          },
          "1520":{
             "descripcion":"MAQUINARIA Y EQUIPO",
-            "152099":{
-               "descripcion":"AJUSTES POR INFLACION"
+            "152005":{
+               "descripcion":"MAQUINARIA Y EQUIPO"
             }
          },
          "1524":{
@@ -2146,7 +2149,10 @@
             }
          },
          "2130":{
-            "descripcion":"ENTIDADES FINANCIERAS DEL EXTERIOR"
+            "descripcion":"ENTIDADES FINANCIERAS DEL EXTERIOR",
+            "213005":{
+               "descripcion":"ENTIDADES FINANCIERAS DEL EXTERIOR"
+            }
          },
          "2135":{
             "descripcion":"COMPROMISOS DE RECOMPRA DE INVERSIONES NEGOCIADAS",
@@ -2215,37 +2221,67 @@
       "22":{
          "descripcion":"PROVEEDORES",
          "2205":{
-            "descripcion":"NACIONALES"
+            "descripcion":"NACIONALES",
+            "220505":{
+               "descripcion":"NACIONALES"
+            }
          },
          "2210":{
-            "descripcion":"DEL EXTERIOR"
+            "descripcion":"DEL EXTERIOR",
+            "221005":{
+               "descripcion":"DEL EXTERIOR"
+            }
          },
          "2215":{
-            "descripcion":"CUENTAS CORRIENTES COMERCIALES"
+            "descripcion":"CUENTAS CORRIENTES COMERCIALES",
+            "221505":{
+               "descripcion":"CUENTAS CORRIENTES COMERCIALES"
+            }
          },
          "2220":{
-            "descripcion":"CASA MATRIZ"
+            "descripcion":"CASA MATRIZ",
+            "222005":{
+               "descripcion":"CASA MATRIZ"
+            }
          },
          "2225":{
-            "descripcion":"COMPAÑIAS VINCULADAS"
+            "descripcion":"COMPAÑIAS VINCULADAS",
+            "222505":{
+               "descripcion":"COMPAÑIAS VINCULADAS"
+            }
          }
       },
       "23":{
          "descripcion":"CUENTAS POR PAGAR",
          "2305":{
-            "descripcion":"CUENTAS CORRIENTES COMERCIALES"
+            "descripcion":"CUENTAS CORRIENTES COMERCIALES",
+            "230505":{
+               "descripcion":"CUENTAS CORRIENTES "
+            }
          },
          "2310":{
-            "descripcion":"A CASA MATRIZ"
+            "descripcion":"A CASA MATRIZ",
+            "231005":{
+               "descripcion":"A CASA MATRIZ"
+            }
          },
          "2315":{
-            "descripcion":"A COMPAÑIAS VINCULADAS"
+            "descripcion":"A COMPAÑIAS VINCULADAS",
+            "231505":{
+               "descripcion":"A COMPAÑIAS VINCULADAS"
+            }
          },
          "2320":{
-            "descripcion":"A CONTRATISTAS"
+            "descripcion":"A CONTRATISTAS",
+            "232005":{
+               "descripcion":"A CONTRATISTAS"
+            }
          },
          "2330":{
-            "descripcion":"ORDENES DE COMPRA POR UTILIZAR"
+            "descripcion":"ORDENES DE COMPRA POR UTILIZAR",
+            "233005":{
+               "descripcion":"ORDENES DE COMPRA POR UTILIZAR"
+            }
          },
          "2335":{
             "descripcion":"COSTOS Y GASTOS POR  PAGAR",
@@ -2296,13 +2332,22 @@
             }
          },
          "2340":{
-            "descripcion":"INSTALAMENTOS POR PAGAR"
+            "descripcion":"INSTALAMENTOS POR PAGAR",
+            "234005":{
+               "descripcion":"INSTALAMENTOS POR PAGAR"
+            }
          },
          "2345":{
-            "descripcion":"ACREEDORES OFICIALES"
+            "descripcion":"ACREEDORES OFICIALES",
+            "234505":{
+               "descripcion":"ACREEDORES OFICIALES"
+            }
          },
          "2350":{
-            "descripcion":"REGALIAS POR PAGAR"
+            "descripcion":"REGALIAS POR PAGAR",
+            "235005":{
+               "descripcion":"REGALIAS POR PAGAR"
+            }
          },
          "2355":{
             "descripcion":"DEUDAS CON ACCIONISTAS O SOCIOS",
@@ -2443,7 +2488,13 @@
             }
          },
          "2408":{
-            "descripcion":"IMPUESTO SOBRE LAS VENTAS POR PAGAR"
+            "descripcion":"IMPUESTO SOBRE LAS VENTAS POR PAGAR",
+            "240801":{
+               "descripcion":"IVA GENERADO"
+            },
+            "240802":{
+               "descripcion":"IVA DESCONTABLE"
+            }
          },
          "2412":{
             "descripcion":"DE INDUSTRIA Y COMERCIO",
@@ -2455,10 +2506,16 @@
             }
          },
          "2416":{
-            "descripcion":"A LA PROPIEDAD RAIZ"
+            "descripcion":"A LA PROPIEDAD RAIZ",
+            "241605":{
+               "descripcion":"A LA PROPIEDAD RAIZ"
+            }
          },
          "2420":{
-            "descripcion":"DERECHOS SOBRE INSTRUMENTOS PUBLICOS"
+            "descripcion":"DERECHOS SOBRE INSTRUMENTOS PUBLICOS",
+            "242005":{
+               "descripcion":"DERECHOS SOBRE INSTRUMENTOS PUBLICOS"
+            }
          },
          "2424":{
             "descripcion":"DE VALORIZACION",
@@ -2470,10 +2527,16 @@
             }
          },
          "2428":{
-            "descripcion":"DE TURISMO"
+            "descripcion":"DE TURISMO",
+            "242805":{
+               "descripcion":"DE TURISMO"
+            }
          },
          "2432":{
-            "descripcion":"TASA POR UTILIZACION DE PUERTOS"
+            "descripcion":"TASA POR UTILIZACION DE PUERTOS",
+            "243205":{
+               "descripcion":"TASA POR UTILIZACION DE PUERTOS"
+            }
          },
          "2436":{
             "descripcion":"DE VEHICULOS",
@@ -2485,7 +2548,10 @@
             }
          },
          "2440":{
-            "descripcion":"DE ESPECTACULOS PUBLICOS"
+            "descripcion":"DE ESPECTACULOS PUBLICOS",
+            "244005":{
+               "descripcion":"DE ESPECTACULOS PUBLICOS"
+            }
          },
          "2444":{
             "descripcion":"DE HIDROCARBUROS Y MINAS",
@@ -2497,16 +2563,28 @@
             }
          },
          "2448":{
-            "descripcion":"REGALIAS E IMPUESTOS A LA PEQUEÑA Y MEDIANA MINERIA"
+            "descripcion":"REGALIAS E IMPUESTOS A LA PEQUEÑA Y MEDIANA MINERIA",
+            "244805":{
+               "descripcion":"REGALIAS E IMPUESTOS A LA PEQUEÑA Y MEDIANA MINERIA"
+            }
          },
          "2452":{
-            "descripcion":"A LAS EXPORTACIONES CAFETERAS"
+            "descripcion":"A LAS EXPORTACIONES CAFETERAS",
+            "245205":{
+               "descripcion":"A LAS EXPORTACIONES CAFETERAS"
+            }
          },
          "2456":{
-            "descripcion":"A LAS IMPORTACIONES"
+            "descripcion":"A LAS IMPORTACIONES",
+            "245605":{
+               "descripcion":"A LAS IMPORTACIONES"
+            }
          },
          "2460":{
-            "descripcion":"CUOTAS DE FOMENTO"
+            "descripcion":"CUOTAS DE FOMENTO",
+            "246005":{
+               "descripcion":"CUOTAS DE FOMENTO"
+            }
          },
          "2464":{
             "descripcion":"DE LICORES, CERVEZAS Y CIGARRILLOS",
@@ -2527,13 +2605,19 @@
             "descripcion":"AL AZAR Y JUEGOS"
          },
          "2495":{
-            "descripcion":"OTROS"
+            "descripcion":"OTROS",
+            "249505":{
+               "descripcion":"OTROS"
+            }
          }
       },
       "25":{
          "descripcion":"OBLIGACIONES LABORALES",
          "2505":{
-            "descripcion":"SALARIOS POR PAGAR"
+            "descripcion":"SALARIOS POR PAGAR",
+            "250505":{
+               "descripcion":"SALARIOS POR PAGAR"
+            }
          },
          "2510":{
             "descripcion":"CESANTIAS CONSOLIDADAS",
@@ -2545,10 +2629,16 @@
             }
          },
          "2515":{
-            "descripcion":"INTERESES SOBRE CESANTIAS"
+            "descripcion":"INTERESES SOBRE CESANTIAS",
+            "251505":{
+               "descripcion":"INTERESES SOBRE CESANTIAS"
+            }
          },
          "2520":{
-            "descripcion":"PRIMA DE SERVICIOS"
+            "descripcion":"PRIMA DE SERVICIOS",
+            "252005":{
+               "descripcion":"PRIMA DE SERVICIOS"
+            }
          },
          "2525":{
             "descripcion":"VACACIONES CONSOLIDADAS",
@@ -2578,7 +2668,10 @@
             }
          },
          "2532":{
-            "descripcion":"PENSIONES POR PAGAR"
+            "descripcion":"PENSIONES POR PAGAR",
+            "253205":{
+               "descripcion":"PENSIONES POR PAGAR"
+            }
          },
          "2535":{
             "descripcion":"CUOTAS PARTES PENSIONES DE JUBILACION"
@@ -2965,7 +3058,10 @@
             }
          },
          "2840":{
-            "descripcion":"CUENTAS EN PARTICIPACION"
+            "descripcion":"CUENTAS EN PARTICIPACION",
+            "284005":{
+               "descripcion":"CUENTAS EN PARTICIPACION"
+            }
          },
          "2895":{
             "descripcion":"DIVERSOS",
@@ -3040,19 +3136,34 @@
             }
          },
          "3120":{
-            "descripcion":"CAPITAL ASIGNADO"
+            "descripcion":"CAPITAL ASIGNADO",
+            "312005":{
+               "descripcion":"CAPITAL ASIGNADO"
+            }
          },
          "3125":{
-            "descripcion":"INVERSION SUPLEMENTARIA AL CAPITAL ASIGNADO"
+            "descripcion":"INVERSION SUPLEMENTARIA AL CAPITAL ASIGNADO",
+            "312505":{
+               "descripcion":"INVERSION SUPLEMENTARIA AL CAPITAL ASIGNADO"
+            }
          },
          "3130":{
-            "descripcion":"CAPITAL DE PERSONAS NATURALES"
+            "descripcion":"CAPITAL DE PERSONAS NATURALES",
+            "313005":{
+               "descripcion":"CAPITAL DE PERSONAS NATURALES"
+            }
          },
          "3135":{
-            "descripcion":"APORTES DEL ESTADO"
+            "descripcion":"APORTES DEL ESTADO",
+            "313505":{
+               "descripcion":"APORTES DEL ESTADO"
+            }
          },
          "3140":{
-            "descripcion":"FONDO SOCIAL"
+            "descripcion":"FONDO SOCIAL",
+            "314005":{
+               "descripcion":"FONDO SOCIAL"
+            }
          }
       },
       "32":{
@@ -3088,7 +3199,10 @@
             }
          },
          "3215":{
-            "descripcion":"CREDITO MERCANTIL"
+            "descripcion":"CREDITO MERCANTIL",
+            "321505":{
+               "descripcion":"CREDITO MERCANTIL"
+            }
          }
       },
       "33":{
@@ -3193,19 +3307,31 @@
             }
          },
          "3410":{
-            "descripcion":"SANEAMIENTO FISCAL"
+            "descripcion":"SANEAMIENTO FISCAL",
+            "341005":{
+               "descripcion":"SANEAMIENTO FISCAL"
+            }
          },
          "3415":{
-            "descripcion":"AJUSTES POR INFLACION DECRETO 3019 DE 1989"
+            "descripcion":"AJUSTES POR INFLACION DECRETO 3019 DE 1989",
+            "341505":{
+               "descripcion":"AJUSTES POR INFLACION DECRETO 3019 DE 1989"
+            }
          }
       },
       "35":{
          "descripcion":"DIVIDENDOS O PARTICIPACIONES DECRETADOS EN ACCIONES, CUOTAS O PARTES DE INTERES SOCIAL",
          "3505":{
-            "descripcion":"DIVIDENDOS DECRETADOS EN ACCIONES"
+            "descripcion":"DIVIDENDOS DECRETADOS EN ACCIONES",
+            "350505":{
+               "descripcion":"DIVIDENDOS DECRETADOS EN ACCIONES"
+            }
          },
          "3510":{
-            "descripcion":"PARTICIPACIONES DECRETADAS EN CUOTAS O PARTES DE INTERES SOCIAL"
+            "descripcion":"PARTICIPACIONES DECRETADAS EN CUOTAS O PARTES DE INTERES SOCIAL",
+            "351005":{
+               "descripcion":"PARTICIPACIONES DECRETADAS EN CUOTAS O PARTES DE INTERES SOCIAL"
+            }
          }
       },
       "36":{
@@ -3232,10 +3358,16 @@
       "37":{
          "descripcion":"RESULTADOS DE EJERCICIOS ANTERIORES",
          "3705":{
-            "descripcion":"UTILIDADES O EXCEDENTES ACUMULADOS"
+            "descripcion":"UTILIDADES O EXCEDENTES ACUMULADOS",
+            "370505":{
+               "descripcion":"UTILIDADES O EXCEDENTES ACUMULADOS"
+            }
          },
          "3710":{
-            "descripcion":"PERDIDAS ACUMULADAS"
+            "descripcion":"PERDIDAS ACUMULADAS",
+            "371005":{
+               "descripcion":"PERDIDAS ACUMULADAS"
+            }
          }
       },
       "38":{
